@@ -131,3 +131,5 @@ Use official onion URLs.
 
 Darknet markets offer privacy. By following these practices you can navigate the markets safely. Always verify URLs and use encryption.
 Plase contribute and add stars to this repo.
+
+Update:  04.07.2025
